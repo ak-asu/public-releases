@@ -1,0 +1,10 @@
+{
+  "version": "v1.1.0",
+  "release_type": "tag",
+  "release_date": "2025-05-19T05:04:59Z",
+  "files": {
+    "linux-amd64": "cryptogak-linux-amd64.tar.gz",
+    "linux-arm64": "cryptogak-linux-arm64.tar.gz",
+    "windows-amd64": "cryptogak-windows-amd64.zip"
+  }
+}
